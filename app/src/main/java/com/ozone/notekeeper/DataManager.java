@@ -1,4 +1,4 @@
-package com.jwhh.notekeeper;
+package com.ozone.notekeeper;
 
 import java.util.ArrayList;
 import java.util.List;
