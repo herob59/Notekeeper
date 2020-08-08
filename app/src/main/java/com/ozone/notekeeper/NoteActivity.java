@@ -1,4 +1,4 @@
-package com.jwhh.notekeeper;
+package com.ozone.notekeeper;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -16,7 +16,7 @@ import android.widget.Spinner;
 import java.util.List;
 
 public class NoteActivity extends AppCompatActivity {
-    public static final String NOTE_POSITION = "com.jwhh.notekeeper.NOTE_POSITION";
+    public static final String NOTE_POSITION = "com.ozone.notekeeper.NOTE_POSITION";
     public static final int POSITION_NOT_SET = -1;
     private NoteInfo mNote;
     private boolean mIsNewNote;
